@@ -1,0 +1,4 @@
+name: Notoriousjayy/webgl2-wasm-pong-game-codeql-pack
+version: 0.0.1
+library: true
+dependencies: {}
